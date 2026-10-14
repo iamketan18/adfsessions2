@@ -1,0 +1,15 @@
+{
+	"name": "adf-enterprise-core-iamketan1997",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "afd1ecfe-d855-4905-afcd-610516e0bf72",
+		"tenantId": "90880054-c639-42b9-975c-c9fb83d07828"
+	}
+}
